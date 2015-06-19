@@ -1,6 +1,6 @@
 Weddingsnap
 ======
-I got married and wanted to set up a way for our guests to share their photos of the special day with us. This is a Twilio app written with the [Django](https://www.djangoproject.com/) web framework and the [django-twilio](https://github.com/rdegges/django-twilio) framework which also uses [twilio-python](https://github.com/twilio/twilio-python). You can read more about the project on my blog.
+I got married and wanted to set up a way for our guests to share their photos of the special day with us. This is a Twilio app written with the [Django](https://www.djangoproject.com/) web framework and the [django-twilio](https://github.com/rdegges/django-twilio) framework which also uses [twilio-python](https://github.com/twilio/twilio-python). You can read more about the project on [my blog](http://www.hung-truong.com/blog/2015/06/18/collecting-wedding-photos-with-twilio-mms/).
 
 ## Features
 1. Broadcast messages to guests throughout the day.
